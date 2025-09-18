@@ -57,7 +57,7 @@ pathofexile.com (нужно, чтобы скрипт создавал поиск
 6) Проверьте работу
 
 Откройте любую страницу персонажа PoE2 на poe.ninja, например:
-https://poe.ninja/poe2/builds/abyss/character/<account>/<charname>
+https://poe.ninja/poe2/builds/abyss
 (важно: именно страница character, где видны предметы).
 
 Наведите мышку на ячейку предмета – на самой плитке появится маленькая кнопка Trade.
