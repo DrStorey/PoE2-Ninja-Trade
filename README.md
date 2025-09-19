@@ -1,3 +1,6 @@
+
+<img width="1536" height="1024" alt="PoE2 Ninja → Trade logo" src="https://github.com/user-attachments/assets/c6af2158-b7db-4fa6-bfb5-bd2196f9eec4" />
+
 Это мини гайд как установить данный скрипт.
 Скрипт позволяет на странице poe.ninja при наведение на предметы игрока, передавать их автоматически в фильтр на странице pathofexile.com/trade2.
 
